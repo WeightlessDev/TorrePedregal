@@ -20,26 +20,26 @@ var APP_DATA = {
       ],
       "faceSize": 1024,
       "initialViewParameters": {
-        "yaw": -2.9768627668451764,
-        "pitch": 0.11760735813545864,
-        "fov": 1.558275891198931
+        "yaw": 2.964736769999581,
+        "pitch": 0,
+        "fov": 1.5601080270670864
       },
       "linkHotspots": [
         {
-          "yaw": 3.0902473429707173,
-          "pitch": -0.006155227839803601,
+          "yaw": 3.098711319999566,
+          "pitch": 0,
           "rotation": 0,
           "target": "1-cocina"
         },
         {
-          "yaw": 1.9481316346241249,
-          "pitch": 0.053157732387919765,
+          "yaw": 0.10926197281942152,
+          "pitch": 0,
           "rotation": 0,
           "target": "2-habitacion-master"
         },
         {
-          "yaw": 0.17544810443049386,
-          "pitch": 0.09616768492749372,
+          "yaw": 2.040297912819195,
+          "pitch": 0,
           "rotation": 0,
           "target": "3-habitacion-2"
         }
@@ -66,14 +66,14 @@ var APP_DATA = {
       ],
       "faceSize": 1024,
       "initialViewParameters": {
-        "yaw": 2.90697763624806,
-        "pitch": 0.08596182694917687,
-        "fov": 1.5601080270670864
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
       },
       "linkHotspots": [
         {
-          "yaw": 0.7725559231645391,
-          "pitch": 0.03325005314166063,
+          "yaw": 0.767235999999972,
+          "pitch": 0,
           "rotation": 0,
           "target": "0-sala"
         }
@@ -106,8 +106,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -2.7776409447237107,
-          "pitch": 0.08407354662853272,
+          "yaw": -2.980847427179805,
+          "pitch": 0,
           "rotation": 0,
           "target": "0-sala"
         }
@@ -140,8 +140,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 2.5488283901652427,
-          "pitch": 0.06399877668946807,
+          "yaw": 2.6987361899996127,
+          "pitch": 0,
           "rotation": 0,
           "target": "0-sala"
         }
@@ -149,7 +149,7 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "Vistas Del Pedregal",
+  "name": "Vistas del Pedregal",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
