@@ -20,28 +20,28 @@ var APP_DATA = {
       ],
       "faceSize": 1024,
       "initialViewParameters": {
-        "yaw": 2.964736769999581,
+        "yaw": 3.0594002558145155,
         "pitch": 0,
-        "fov": 1.5601080270670864
+        "fov": 1.5547512182991647
       },
       "linkHotspots": [
         {
-          "yaw": 3.098711319999566,
-          "pitch": 0,
+          "yaw": 0.14568960065698988,
+          "pitch": -0.0032598707625002277,
           "rotation": 0,
-          "target": "1-cocina"
+          "target": "3-habitacion-2"
         },
         {
-          "yaw": 0.10926197281942152,
-          "pitch": 0,
+          "yaw": 1.9965909269929112,
+          "pitch": 0.0061697840878522925,
           "rotation": 0,
           "target": "2-habitacion-master"
         },
         {
-          "yaw": 2.040297912819195,
-          "pitch": 0,
+          "yaw": 3.077666391331352,
+          "pitch": 0.006574427234452784,
           "rotation": 0,
-          "target": "3-habitacion-2"
+          "target": "1-cocina"
         }
       ],
       "infoHotspots": []
@@ -66,14 +66,14 @@ var APP_DATA = {
       ],
       "faceSize": 1024,
       "initialViewParameters": {
+        "yaw": 3.0200321484611248,
         "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "fov": 1.5547512182991647
       },
       "linkHotspots": [
         {
-          "yaw": 0.767235999999972,
-          "pitch": 0,
+          "yaw": 0.8128983068452023,
+          "pitch": 0.015939725329509713,
           "rotation": 0,
           "target": "0-sala"
         }
@@ -106,8 +106,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -2.980847427179805,
-          "pitch": 0,
+          "yaw": -2.8691958029207463,
+          "pitch": 0.021177685240076016,
           "rotation": 0,
           "target": "0-sala"
         }
@@ -140,8 +140,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 2.6987361899996127,
-          "pitch": 0,
+          "yaw": 2.5930062346554354,
+          "pitch": 0.04076985038870262,
           "rotation": 0,
           "target": "0-sala"
         }
